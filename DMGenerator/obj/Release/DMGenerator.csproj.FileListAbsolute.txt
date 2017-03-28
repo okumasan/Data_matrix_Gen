@@ -1,0 +1,9 @@
+C:\Users\Alienware\Desktop\源代码\DMGenerator\bin\Release\DMGenerator.exe.config
+C:\Users\Alienware\Desktop\源代码\DMGenerator\bin\Release\DMGenerator.exe
+C:\Users\Alienware\Desktop\源代码\DMGenerator\bin\Release\DMGenerator.pdb
+C:\Users\Alienware\Desktop\源代码\DMGenerator\obj\Release\DMGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Alienware\Desktop\源代码\DMGenerator\obj\Release\DMGenerator.DataMatrixGenerator.resources
+C:\Users\Alienware\Desktop\源代码\DMGenerator\obj\Release\DMGenerator.Properties.Resources.resources
+C:\Users\Alienware\Desktop\源代码\DMGenerator\obj\Release\DMGenerator.csproj.GenerateResource.Cache
+C:\Users\Alienware\Desktop\源代码\DMGenerator\obj\Release\DMGenerator.exe
+C:\Users\Alienware\Desktop\源代码\DMGenerator\obj\Release\DMGenerator.pdb
